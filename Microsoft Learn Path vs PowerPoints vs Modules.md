@@ -2,8 +2,8 @@
 
 ## Learning Path 1: Explore Microsoft 365 administration - https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-administration/
 
-Module 1: Explore Microsoft 365 security foundations - https://learn.microsoft.com/en-us/training/modules/explore-microsoft-365-security-foundations/ <br>
-Module 2: Introduction to Microsoft 365 core services and admin controls - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-core-services-admin-control/ <br>
+Module 1: Introduction to Microsoft 365 core services and admin controls - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-core-services-admin-control/ <br>
+Module 2: Explore Microsoft 365 security foundations - https://learn.microsoft.com/en-us/training/modules/explore-microsoft-365-security-foundations/ <br>
 Module 3: Protect and govern Microsoft 365 data - https://learn.microsoft.com/en-us/training/modules/protect-govern-data-microsoft-365/ <br>
 
 ## Learning Path 2: Explore Microsoft 365 Copilot and agent administration - https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-copilot-agent-administration/
