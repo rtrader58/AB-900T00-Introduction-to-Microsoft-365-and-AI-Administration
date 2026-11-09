@@ -1,21 +1,10 @@
-# SC-900T00 - Security, Compliance and Identity Fundamentals - Additional links
+# AB-900T00 - Introduction to Microsoft 365 and AI administration - Additional links
 
 Interface Technical Training - http://www.interfacett.com<br>
-Lab environment - https://interfacett.learnondemand.net<br>
-Github lab repository - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions<br>
-Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br>
-SC-900 Exam Objectives - https://learn.microsoft.com/en-us/certifications/exams/sc-900/<br>
-SC-900 Exam study guide - https://learn.microsoft.com/en-us/certifications/resources/study-guides/sc-900<br>
-Interface Technical Training Exam Promo - https://www.interfacett.com/microsoft-certification-exams/<br>
-Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
-Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
-Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
-Azure Fridays - https://learn.microsoft.com/en-us/shows/azure-friday/<br>
-Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog<br>
-Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
-Microsoft Defender for Servers Overview - https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introduction#defender-for-servers-plans<br>
-Microsoft Defender for Servers Pricing - https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/<br>
-Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
-KQL sample queries - https://github.com/wortell/KQL <br>
+Interface Technical Training Facebook page - https://www.facebook.com/InterfaceTraining <br>
+Interface Technical Training LinkedIn Page - https://www.linkedin.com/company/interface-technical-training/posts/ <br>
+Class Recording (Replay) - https://replay.interfacett.com/login.php <br>
+AB-900 Exam Objectives - https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification/<br>
+AB-900 Exam study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-900br>
 
-### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
+
